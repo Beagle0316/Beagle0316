@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on projects that is related to food
 - 📫 How to reach me: Wherever there is food
-- 😄 Pronouns: I like food
+- 😄 Pronouns: I like don't food
 - ⚡ Fun fact: I love beagles!
 
 <!---
